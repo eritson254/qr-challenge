@@ -10,6 +10,7 @@ body {
     height: 900px;
     background-color: hsl(212, 45%, 89%);
     margin-top: 0px;
+    margin-left: 0px;
 }
 
 .qr-white-bg {
